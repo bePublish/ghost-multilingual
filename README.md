@@ -1,6 +1,6 @@
 # Easy Multilingual Ghost Setup: 1-Click Deployment Guide for Railway
 
->1-click install Ghost multilingual on Railway
+Deploy a fully multilingual Ghost site on Railway in one click! Use the dual-instance method to ensure perfect SEO, UI translation, and member management for every language.
 
 ![ghost-multilingual](/assets/cover.png)
 
