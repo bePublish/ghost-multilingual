@@ -1,5 +1,6 @@
-# Ghost Multilingual: 1-click install Ghost multilingual on Railway
-1-click install Ghost multilingual on Railway
+# Easy Multilingual Ghost Setup: 1-Click Deployment Guide for Railway
+
+>1-click install Ghost multilingual on Railway
 
 ![ghost-multilingual](/assets/cover.png)
 
